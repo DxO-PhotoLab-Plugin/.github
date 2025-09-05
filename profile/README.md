@@ -1,105 +1,115 @@
-# 💯 Max Stats Cheat P5R – Skip the Grind, Unlock Everything
+# DxO PhotoLab — Professional Photo Editing Reimagined 📸
 
-Let’s be real: **maxing your stats in Persona 5 Royal is a full-time job.** You only get 1–2 actions per day, and between dungeons, school, and confidants, there’s no room for error. That’s why the **Max Stats Cheat for P5R** exists – a clean, safe cheat tool that instantly raises all your social stats to Level 5 in one click.
-
-No more wasting time reading books, working part-time jobs, or failing awkward social events. With this cheat, you’re **already top-tier Joker** from the start. 🎭📚🔥
-
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://Max-Stats-Cheat-P5R-irantom.github.io/.github)
----
-
-## 📈 What Does Max Stats Cheat Unlock?
-
-With all five stats maxed out, you immediately gain access to:
-
-* 🧠 **Knowledge – Rank 5 (Erudite)**
-* 😎 **Charm – Rank 5 (Debonair)**
-* 💪 **Guts – Rank 5 (Dauntless)**
-* 🛠️ **Proficiency – Rank 5 (Transcendent)**
-* 💗 **Kindness – Rank 5 (Angelic)**
-
-This instantly opens up:
-
-* 💘 **Romance paths for Ann, Makoto, Hifumi, Takemi, and more**
-* 🧡 **Confidant options for Kawakami, Chihaya, Iwai, Sojiro, etc.**
-* 🎯 **Perfect answers during hangouts, events, and classroom scenes**
-* 📖 **Full reading/library/bookstore unlocks**
-* 🏆 **Faster trophy/unlock progress for NG+**
-
-[Visit Official Site - wecheaters.com](https://wecheaters.com)
-[![Visit Official Site](https://i.ibb.co/hFTLN3XF/Frame-9.png)](https://wecheaters.com)
----
-
-## 🔥 How the Max Stats Cheat Works
-
-This tool attaches to the **Steam/Game Pass version** of Persona 5 Royal and modifies your save or active memory to instantly raise each stat to max level.
-
-✅ Cheat Features:
-
-* 🎯 **Instant Max for All Stats (1-Click Toggle)**
-* 🧠 **Edit Individual Stat Ranks (Customize Your Build)**
-* 📖 **Classroom Auto Correct (Boost Knowledge Fast)**
-* 💬 **Confidant Unlock Override (Even if stat gate not met)**
-* 🎮 **Trainer UI with Hotkey Option (Simple & Fast)**
-* 🛡️ **Offline Safe – No online flags, no risk**
+DxO PhotoLab is a high-end **photo editing software** designed for photographers who need precision, speed, and quality. With AI-powered tools, advanced RAW processing, and seamless workflow integration, it provides everything from subtle corrections to dramatic enhancements.
 
 ---
 
-## 🆚 Max Stats Cheat vs Legit Play
+## Overview
 
-| Feature           | Max Stats Cheat      | Regular Gameplay          |
-| ----------------- | -------------------- | ------------------------- |
-| Stat Progression  | 💯 Instant           | 🐌 Dozens of In-Game Days |
-| Romance Unlocks   | ❤️ All Options Open  | ⚠️ Time-Gated & RNG       |
-| Confidant Paths   | ✅ Fully Unlocked     | 🔒 Locked by Stat Walls   |
-| Action Efficiency | 🔁 Maxed by Palace 1 | ⌛ Late Game Only          |
-
-The cheat makes **every character interaction smoother**, and unlocks **the full social side of the game early**.
+DxO PhotoLab is built to deliver natural, lifelike images while preserving detail and dynamic range. Photographers trust it for RAW development, optical corrections, and AI-based noise reduction.
+<img width="1024" height="546" alt="image" src="https://github.com/user-attachments/assets/14fa1ae1-51c1-4c26-9e98-400542de22f2" />
 
 ---
 
-## 💻 System Requirements
+## Who It’s For 🎯
 
-* Platform: PC (Steam/Game Pass version of Persona 5 Royal)
-* OS: Windows 10/11 (64-bit)
-* RAM: 8GB+
-* Admin Rights: Required
-* Software: .NET Runtime + C++ Redistributables
-* Game Mode: Offline recommended (no risk of flags)
-
-Lightweight, fast, and works mid-session or on fresh saves.
+* **Professional photographers** managing large RAW libraries.
+* **Enthusiasts** seeking creative control with precision tools.
+* **Studios and agencies** needing a secure, consistent editing workflow.
+<img width="1467" height="912" alt="image" src="https://github.com/user-attachments/assets/c71ca0df-6c2b-4e2b-aa26-d6f65b24b7ee" />
+<img width="1318" height="837" alt="image" src="https://github.com/user-attachments/assets/894c9992-b7b5-4182-9450-d3477c6d1a95" />
 
 ---
 
-## ⚙️ How To Use Max Stats Cheat
+## Feature Breakdown 🛠️
 
-1. Launch Persona 5 Royal and load your save
-2. Open the **Stats Trainer Tool** as admin
-3. Attach to game process
-4. Press the “Max All Stats” button or edit individual ranks manually
-5. Return to the game and enjoy full social freedom 🎓💅
-
-💡 *Pro Tip:* Combine this with **Time Freeze** or **Confidant Rank Editor** for the ultimate life sim experience.
-
----
-
-## 🗣️ Player Reviews
-
-> “Got all social stats maxed before Madarame’s Palace. It changed the whole game flow.” – *SmartestThief*
-
-> “This cheat saved my third playthrough. Now I’m focusing on bonding and the story, not books and burgers.” – *CafeMaxed*
-
-> “Charm 5 by day 5. I’m romancing everyone and I regret nothing.” – *JokerTheFlirt*
+* **DeepRAW AI:** Intelligent RAW processing for maximum detail.
+* **DeepPRIME XD:** Next-gen AI noise reduction with enhanced sharpness.
+* **Smart Lighting:** Balance highlights and shadows naturally.
+* **U Point™ Technology:** Local adjustments without complex masks.
+* **Lens Corrections:** Automatic fixes using DxO’s optical module database.
+* **ColorWheel:** Intuitive HSL editing for selective color adjustments.
+* **Batch Processing:** Edit multiple images with consistent settings.
+<img width="1012" height="433" alt="image" src="https://github.com/user-attachments/assets/5074ed4c-76a7-4b79-963a-36b7229ba23e" />
 
 ---
 
-## ✅ Why It’s Essential
+## Integrations & Compatibility
 
-Grinding social stats in P5R is **one of the most time-wasting parts of the game**. You’ve got limited actions, limited items, and no time to make mistakes. This cheat gives you the freedom to **play how you want** – chase relationships, see every event, and **fully enjoy the story without filler.**
-
-Don’t waste time fishing for kindness boosts. Be Angelic from the jump. 😎🎯
+* Works as a **standalone application**.
+* Supports RAW files from **600+ cameras**.
+* Compatible with **Windows & macOS**.
+* Exports to TIFF, JPEG, DNG, and direct publishing workflows.
+<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/be7d6bcf-7db8-45bc-b513-c9a6a51089d7" />
 
 ---
 
-## 🔑 Keywords
+## Security & Privacy 🛡️
 
-Max Stats Cheat P5R, Persona 5 Royal Max Charm, Guts, Kindness Hack, Instant Stats Persona 5 Royal, Social Stats Trainer P5R, Persona 5 Unlimited Social Stats, P5R PC Cheat Tool, Max Knowledge P5R, Max Proficiency P5R, Confidant Unlock Hack Persona 5, Stat Boost Cheat Persona 5 Royal, Persona 5 Royal Max Rank Stats, One Click Stats Cheat P5R, Safe Stat Trainer P5R, Social Sim Hack P5R, Persona 5 Romance Unlock Cheat, Persona 5 All Stats 5 Cheat
+* Local processing ensures **data stays on your machine**.
+* Encrypted license management.
+* GDPR/CCPA compliant for professional environments.
+
+---
+
+## Performance & Benchmarks
+
+Independent tests show:
+
+* **4× faster RAW processing** with DeepPRIME XD on supported GPUs.
+* Up to **2 stops of noise reduction** without losing detail.
+
+<img width="2630" height="1476" alt="image" src="https://github.com/user-attachments/assets/a4360b0b-050d-4448-b602-9ffce254a362" />
+
+---
+
+## System Requirements
+
+* **Windows 10/11** (64-bit), Intel i5 or higher, 8GB RAM (16GB recommended).
+* **macOS 12+**, Apple Silicon optimized.
+* GPU with OpenCL 1.2 or later for best performance.
+
+---
+
+## Accessibility 
+
+* High-contrast UI themes.
+* Keyboard shortcuts for major tools.
+* macOS VoiceOver compatibility.
+
+---
+
+## Release Notes / Changelog
+
+**2025-05-10** — Improved DeepPRIME XD rendering on NVIDIA GPUs, expanded camera support (Sony A9 III, Canon R1).
+
+---
+
+**Keyword Cluster** — DxO PhotoLab, photo editing software, RAW editor, AI noise reduction, lens correction plugin, Lightroom integration, professional photo retouching
+
+---
+
+## FAQ
+
+**Q1: Does DxO PhotoLab offer a free option?**
+Yes. DxO provides a 30-day **free trial** with full feature access.
+
+**Q2: Can I use DxO PhotoLab with Lightroom?**
+Absolutely. It integrates as a plugin with Adobe Lightroom Classic for seamless editing.
+
+**Q3: What makes DeepPRIME XD unique?**
+It combines AI noise reduction with detail recovery, outperforming most competitor tools.
+
+**Q4: Do I need an internet connection to use it?**
+Only for license activation and updates; editing runs fully offline.
+
+**Q5: How often are new cameras supported?**
+DxO updates its optical module database regularly, typically with each new release.
+
+---
+
+## License
+
+All Rights Reserved.
+
+---
